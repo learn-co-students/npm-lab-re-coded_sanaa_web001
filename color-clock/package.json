@@ -1,0 +1,17 @@
+{
+  "name": "saleem",
+  "version": "1.0.0",
+  "description": "no description",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "keywords": [
+    "saleem"
+  ],
+  "author": "saleem",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.27.0"
+  }
+}
