@@ -1,4 +1,6 @@
-# Node Package Management Code-Along
+# Node Package ManageClose
+
+ment Code-Along
 
 ## Overview
 
