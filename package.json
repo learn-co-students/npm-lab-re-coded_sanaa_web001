@@ -1,0 +1,19 @@
+{
+  "name": "npm-lab-re-coded_sanaa_web001",
+  "version": "1.0.0",
+  "description": "## Overview",
+  "main": "index.js",
+  "scripts": {
+  "test": "mocha -R mocha-multi --reporter-options spec=-,json=.results.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FatimaAlmashhor/npm-lab-re-coded_sanaa_web001.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FatimaAlmashhor/npm-lab-re-coded_sanaa_web001/issues"
+  },
+  "homepage": "https://github.com/FatimaAlmashhor/npm-lab-re-coded_sanaa_web001#readme"
+}
