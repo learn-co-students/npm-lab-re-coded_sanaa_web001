@@ -1,0 +1,23 @@
+{
+  "name": "npm-lab-re-coded_sanaa_web001",
+  "version": "1.0.0",
+  "description": "## Overview",
+  "main": "index.js",
+  "dependencies": {
+    "moment": "^2.29.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haval95/npm-lab-re-coded_sanaa_web001.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haval95/npm-lab-re-coded_sanaa_web001/issues"
+  },
+  "homepage": "https://github.com/haval95/npm-lab-re-coded_sanaa_web001#readme"
+}
