@@ -1,0 +1,17 @@
+{
+  "name": "color_clock",
+  "version": "1.0.0",
+  "description": "color_clock",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "keywords": [
+    "fun"
+  ],
+  "author": "zhin",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
